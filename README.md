@@ -1,9 +1,11 @@
 
 # FAQ-accordion-card-with-only-HTML-CSS
 
-https://user-images.githubusercontent.com/69098117/136015485-fea9cef5-95cf-498d-9f2d-2e3047481924.png
+![Sin título](https://user-images.githubusercontent.com/69098117/136016041-2ad558cd-e3ce-4da5-bed1-554568f257f9.png)
+
 
 ## Brief
+
 
 Your challenge is to build out this FAQ accordion card and get it looking as close to the design as possible.
 
