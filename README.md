@@ -1,4 +1,7 @@
+
 # FAQ-accordion-card-with-only-HTML-CSS
+
+[FAQ-accordion](https://user-images.githubusercontent.com/69098117/136015485-fea9cef5-95cf-498d-9f2d-2e3047481924.png)
 
 ## Brief
 
